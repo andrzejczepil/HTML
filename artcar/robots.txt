@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Crawl-delay: 10
+
+Sitemap: https://artcarserwis.pl/sitemap_1.xml

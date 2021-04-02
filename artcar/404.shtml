@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html lang="pl-PL">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T2VMX3M');</script>
+<!-- End Google Tag Manager -->
+  <title>ArtCar Serwis Gdańsk</title>
+  <meta name="description"
+    content="ArtCar serwis Gdańsk to profesjonalny i nowoczesny warsztat naprawy pojazdów. Mechanik samochodowy ArtCar oferuje najwyższy poziom usług w trójmieście." />
+  <meta name="keywords" content="warsztat,naprawa,mechanik,gdansk,serwis">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, follow" />
+  <link rel="Stylesheet" href="https://artcarserwis.pl/css/style.css" />
+  <link rel="shortcut icon" href="img/wrench.png" type="image/png">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161592014-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-161592014-1');
+  </script>
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "AutoRepair",
+  "name": "ArtCar serwis Gdańsk",
+  "url": "https://artcarserwis.pl",
+  "sameAs" : [
+   "https://www.facebook.com/ArtCarSerwis/",
+   "https://www.instagram.com/artcarserwis/",
+   "https://dobrymechanik.pl/mechanicy/gdansk/artcar-serwis-gdansk.html",
+   "https://www.trojmiasto.pl/ArtCar-Serwis-o82403.html"
+   ],
+  "logo": "https://artcarserwis.pl/img/logo1.png",
+  "image": "https://artcarserwis.pl/img/DSC_0379.jpg",
+  "telephone" : "+48535541663",
+  "email" : "biuro@artcarserwis.pl",
+  "priceRange" : "$000 - $100",
+  "description": "Warsztat mechaniki pojazdowej Gdańsk. Lakiernia, blacharnia, nowoczesna wulkanizacja oraz pomoc drogowa.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Elbląska 54",
+    "addressLocality": "Gdańsk",
+    "addressRegion": "Pomorskie",
+    "postalCode": "80-724",
+    "addressCountry": "Poland"
+  },
+  "openingHours": "Mo, Tu, We, Th, Fr 08:00-19:00 Sa 09:00-15:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+48 535 541 663",
+    "contactType": "general"
+  }
+}
+ </script>
+</head>
+<body id="error404bg">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T2VMX3M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div>
+  <div class="error404up">
+    <img src="img/logo.png" alt="logo_warsztat"/>
+    <h1>404</h1>
+  </div>
+  <div class="error404down">
+    <p>Niestety podana strona nie została znaleziona =(</p>
+    <a href="https://artcarserwis.pl">Powrót do strony głównej</a>
+  </div>
+</div>
+</body>
+</html>
